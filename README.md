@@ -1,4 +1,4 @@
-# astro_derki
+# astro_app
 
 Flutter Burc Rehberi
 
